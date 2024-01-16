@@ -1,0 +1,85 @@
+jPSXdec: PSX media decoder (non-commercial) v2.0
+Windows 11 10.0
+Java 1.8.0_391
+2024-01-16 14:51:04
+14:51 jpsxdec.cdreaders.CdOpener INFO: D:\Temp\New folder\R4 - Ridge Racer Type 4 (USA)\R4.STR
+14:51 jpsxdec.cdreaders.SectorFactory INFO: Attempting to identify as 2448
+14:51 jpsxdec.cdreaders.SectorFactory INFO: Attempting to identify as 2352
+14:51 jpsxdec.cdreaders.SectorFactory INFO: Disc type identified as 2352
+14:51 index INFO: Indexing Filename:D:\Temp\New folder\R4 - Ridge Racer Type 4 (USA)\R4.STR|Sector size:2352|Sector count:224962|First sector offset:0
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:0-55504|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:1-55505|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:2-55506|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:3-55507|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:4-55508|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:5-55509|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:6-55510|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55512-111256|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55513-111257|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55514-111258|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55515-111259|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55516-111260|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55517-111261|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:55518-111262|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111270-129510|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111266-129546|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111267-129547|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111268-129548|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111269-129549|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:129554-144810|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:129555-144811|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:129556-144812|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:129557-144813|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:144821-146285|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:146293-147421|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:129518-147758|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:144820-147956|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:147429-148549|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:147766-148886|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:147964-149068|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:148557-149645|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:148894-149942|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:149076-150100|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:149653-150653|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111265-152233|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:144819-154731|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:144818-158738|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:111264-166968|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:166976-167216|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:152241-167217|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:158746-167218|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:154739-167219|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:150108-167220|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:150661-167221|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:149950-167222|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:167231-186951|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.modules.video.sectorbased.fps.FpsSequence WARNING: Needle length 19685 is longer than this haystack length 9010 "FF7 interactive sampler SAGADEMO.MOV, 7.5075 sectors/frame + 8 audio sector span, different at 4999 and 9001"
+14:51 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "5.0 sectors/frame" 5 length 19685 matches@0 1:1=true
+14:51 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [5] Chose 5
+14:51 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 167224-186908 (19685) frames 3937 average 5 CASE1001011 old 5 new 5 @000000 vfr false 5.0 sectors/frame
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:167224-186908|Type:Video|Dimensions:320x160|Frame Count:3937|Sector Frames:167224-186904|Sectors/Frame:5/1|1st frame end sector:4|Header Frames:1-3937
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:186989-224077|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+14:51 jpsxdec.modules.iso9660.DiscIndexerISO9660 WARNING: Disc has no primary descriptor
+14:51 jpsxdec.modules.video.sectorbased.fps.FpsSequence WARNING: Needle length 37950 is longer than this haystack length 9010 "FF7 interactive sampler SAGADEMO.MOV, 7.5075 sectors/frame + 8 audio sector span, different at 4999 and 9001"
+14:51 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "5.0 sectors/frame" 5 length 37950 matches@0 1:1=true
+14:51 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [5] Chose 5
+14:51 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 186982-224931 (37950) frames 7590 average 5 CASE1001011 old 5 new 5 @000000 vfr false 5.0 sectors/frame
+14:51 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:186982-224931|Type:Video|Dimensions:320x160|Frame Count:7590|Sector Frames:186982-224927|Sectors/Frame:5/1|1st frame end sector:4|Header Frames:1-7590
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:149950-167222|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:149950-167222|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:150108-167220|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:150108-167220|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:150661-167221|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:150661-167221|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:152241-167217|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:152241-167217|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:154739-167219|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:154739-167219|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:158746-167218|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:158746-167218|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.modules.video.sectorbased.DiscIndexerSectorBasedVideo INFO: Discarding silent XA Sectors:166976-167216|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 jpsxdec.indexing.DiscIndex INFO: Filtered child item Sectors:166976-167216|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x // (SILENT)
+14:51 index INFO: Time: 3.11 sec
+14:51 jpsxdec.indexing.SectorTypeCounter INFO: STR Str 50432
+14:51 jpsxdec.indexing.SectorTypeCounter INFO: Unknown 21106
+14:51 jpsxdec.indexing.SectorTypeCounter INFO: XA Audio 153424
